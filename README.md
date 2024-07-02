@@ -1,4 +1,3 @@
 - Hello everybody my nickname is RuRitoBurito
-- I'm starting with Blender, Unity and C#. And yes i'm fresh buddy
-- I want to create my own FPS/Racing game
+- I'm starting with Blender, Roblox Studio, maybe something else, who knows 
 - Also i have a YT acc: https://www.youtube.com/channel/UCneUjNRefzrco3DJo5aQWOQ
